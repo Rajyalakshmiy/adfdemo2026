@@ -1,0 +1,15 @@
+{
+	"name": "adfdevgitdemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2eb64db-6959-4d78-8433-392fd023bd45",
+		"tenantId": "18345550-2177-4227-9483-18d76cb56ec9"
+	}
+}
